@@ -1,6 +1,17 @@
-# flutter_application_1
+# Aprendendo_flutter
+<h1 align="center">
 
-A new Flutter project.
+Iniciando aprendizado na linguagem dart, com o framework flutter, para a matéria de Programação de dispositimos móveis.
+Faculdade de Tecnologia de Ribeirão Preto/SP/Brasil.
+
+</h1>
+
+<h2 align="center" style="color:black"> Layout da Interface
+<h2>
+
+<h2 align="center">
+<img alt="layout" src= "https://github.com/angelresende/Aprendendo_fluter/blob/master/Tela.JPG" width="450px">
+</h2>
 
 ## Getting Started
 
