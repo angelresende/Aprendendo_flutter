@@ -1,5 +1,5 @@
 # Aprendendo_flutter
-<h1 align="center">
+<h1>
 
 Iniciando aprendizado na linguagem dart, com o framework flutter, para a matéria de Programação de dispositimos móveis.
 Faculdade de Tecnologia de Ribeirão Preto/SP/Brasil.
