@@ -1,9 +1,8 @@
 ## Aprendendo_flutter
 
-<h2>
-Iniciando aprendizado na linguagem dart, com o framework flutter, para a matéria de Programação de dispositivos móveis.
-Faculdade de Tecnologia de Ribeirão Preto/SP/Brasil.
-</h2>
+<h1>Iniciando aprendizado na linguagem dart, com o framework flutter, para a matéria de Programação de dispositivos móveis.</h1>
+ 
+<h1>Faculdade de Tecnologia de Ribeirão Preto/SP/Brasil.</h1>
 
 <h2 align="center" style="color:black"> Layout da Interface
 <h2>
